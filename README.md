@@ -34,12 +34,12 @@ To set up Anime Streamer on your local machine, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/AnimeStreamer/animestream.git
+   git clone https://github.com/Ryan24Price/Mini-Project3.git
    ```
 
 2. **Install Dependencies:**
    ```
-   cd animestream
+   cd animestreamer
    npm install
    ```
 
