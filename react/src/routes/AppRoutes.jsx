@@ -2,7 +2,6 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import PageNotFound from "../pages/PageNotFound";
 import Homepage from "../pages/Homepage";
-// import BitcoinRates from "../components/BitcoinRates";
 import LoginPage from "../pages/LoginPage";
 import ProfilePage from "../pages/ProfilePage";
 import AnimeList from "../pages/AnimeList";
