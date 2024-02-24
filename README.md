@@ -49,7 +49,7 @@ To set up Anime Streamer on your local machine, follow these steps:
    ```
 
 4. **Access the Website:**
-   Open your web browser and go to `http://localhost:3000` to access Anime Streamer.
+   Open your web browser and go to `http://localhost:8080` to access Anime Streamer.
 
 ## Usage:
 
