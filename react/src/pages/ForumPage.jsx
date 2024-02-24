@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/Forum.css";
+// import "../Styles/Forum.css";
 
 function ForumPage() {
   return (
