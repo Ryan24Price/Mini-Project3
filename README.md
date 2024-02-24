@@ -59,15 +59,13 @@ To set up Anime Streamer on your local machine, follow these steps:
 3. **Watch Anime:** Click on the title to start streaming the anime of your choice.
 4. **Manage Profile:** Customize your profile settings, manage watchlists, and track your viewing history.
 
-## API calls for CRUD (Create, Read, Update, Delete) operatons:**
-**Create (POST):**
-Creating a new resource on the server.
-**Read (GET):**
-Fetch/Get an existing resource from the server.
-**Update (PUT/PATCH):**
-Update/Put an existing resource on the server.
-**Delete (DELETE):**
-Delete an existing resource on the server.
+## API calls for CRUD (Create, Read, Update, Delete) operatons:
+
+1. **Create (POST):** Creating a new resource on the server.
+2. **Read (GET):** Fetch/Get an existing resource from the server.
+3. **Update (PUT/PATCH):** Update/Put an existing resource on the server.
+4. **Delete (DELETE):** Delete an existing resource on the server.
+
 
 Enjoy streaming your favorite anime on Anime Streamer!
 
