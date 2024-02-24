@@ -40,7 +40,7 @@ To set up Anime Streamer on your local machine, follow these steps:
 2. **Install Dependencies:**
    ```
    cd into React for frontend
-   cd into into Server for backend
+   cd into Server for backend
    npm install
    ```
 
