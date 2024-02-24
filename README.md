@@ -39,7 +39,8 @@ To set up Anime Streamer on your local machine, follow these steps:
 
 2. **Install Dependencies:**
    ```
-   cd animestreamer
+   cd into React for frontend
+   cd into into Server for backend
    npm install
    ```
 
@@ -57,6 +58,16 @@ To set up Anime Streamer on your local machine, follow these steps:
 2. **Browse Anime:** Explore our extensive library of anime titles and select the one you want to watch.
 3. **Watch Anime:** Click on the title to start streaming the anime of your choice.
 4. **Manage Profile:** Customize your profile settings, manage watchlists, and track your viewing history.
+
+## API calls for CRUD (Create, Read, Update, Delete) operatons:**
+**Create (POST):**
+Creating a new resource on the server.
+**Read (GET):**
+Fetch/Get an existing resource from the server.
+**Update (PUT/PATCH):**
+Update/Put an existing resource on the server.
+**Delete (DELETE):**
+Delete an existing resource on the server.
 
 Enjoy streaming your favorite anime on Anime Streamer!
 
